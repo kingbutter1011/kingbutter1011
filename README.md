@@ -8,10 +8,6 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Solidity and decentralized application (dApp) development...<br>🎯 Goals: To build innovative blockchain solutions and contribute to open-source projects...<br>🎲 Fun fact: I once built a simple game on the Ethereum blockchain that allows players to collect virtual cats!</p>
-
-###
-
 <div align="left">
   <a href="mailto:ruizsalvador951011@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
