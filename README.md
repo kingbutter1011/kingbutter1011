@@ -1,8 +1,4 @@
-<h1 align="left">Hi 👋 Thanks for visiting my github</h1>
-
-###
-
-<p align="left">My name is Salvador Ruiz and I'm a web3 developer, from Philippine</p>
+<h1 align="left">Dream it. Wish it. Do it</h1>
 
 ###
 
