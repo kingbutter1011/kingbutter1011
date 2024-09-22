@@ -1,7 +1,5 @@
 <h1 align="left">Dream it. Wish it. Do it</h1>
 
-###
-
 <h2 align="left">Full Stack Developer</h2>
 
 ![dev-working_rounded](https://github.com/user-attachments/assets/9dbbba24-f177-439d-97a3-e8c16cc4a5b0)
